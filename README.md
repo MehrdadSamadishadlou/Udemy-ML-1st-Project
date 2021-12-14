@@ -1,5 +1,5 @@
 # Udemy-ML-1st-Project
-This is my answer to the first project of the "20+ End-To-End Machine Learning Projects &amp; Deployment 2021" course.
+This is my answer to the first project of the "20+ End-To-End Machine Learning Projects &amp; Deployment 2021" course (section 11).
 
 The more detailed description of the project is as follow:
 
